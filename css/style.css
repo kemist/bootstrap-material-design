@@ -1,0 +1,38 @@
+/* Custom CSS */
+
+body {
+  padding-bottom: 20px;
+}
+
+.navbar {
+  margin-bottom: 20px;
+}
+
+
+
+.mt-10 {
+	margin-top: 10px;
+}
+	
+.mt-20 {
+	margin-top: 20px;
+}
+
+.mb-20 {
+	padding-bottom: 20px;
+}
+
+
+
+.pt-10 {
+	padding-top: 10px;
+}
+
+.pt-20 {
+	padding-top: 20px;
+}
+
+.pb-20 {
+	padding-bottom: 20px;
+}
+
