@@ -1,12 +1,22 @@
-<p align="center">
+<div class="container" style="width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;">
+  
+  <h1>Heading 1</h1>
+  
+  </div>
+
+<p align="left">
   <a href="https://mdbootstrap.com/docs/jquery/getting-started/download/">
     <img width="500" src="https://mdbootstrap.com/img/Marketing/general/logo/huge/mdb.png">
   </a>
 </p>
 
-<h1 align="center">Material Design for Bootstrap 4</h1>
+<h1 align="left">Material Design for Bootstrap 4</h1>
 
-<p align="center">	
+<p align="left">	
   <a href="https://npmcharts.com/compare/mdbootstrap?minimal=true"><img src="https://img.shields.io/npm/dm/mdbootstrap.svg" alt="Downloads"></a>
   <a href="https://github.com/mdbootstrap/bootstrap-material-design/blob/master/License.pdf"><img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License"></a>	
   <a href="https://cdnjs.com/libraries/mdbootstrap"><img src="https://img.shields.io/cdnjs/v/mdbootstrap.svg" alt="cdnjs"></a>	
@@ -14,16 +24,16 @@
   <a href="https://twitter.com/intent/tweet/?text=Thanks+@mdbootstrap+for+creating+amazing+and+free+Material+Design+for+Bootstrap+4+UI+KIT%20https://mdbootstrap.com/docs/jquery/&hashtags=javascript,code,webdesign,bootstrap"><img src="https://img.shields.io/twitter/url/http/shields.io.svg?style=social"></a>	
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://mdbootstrap.com/docs/jquery/getting-started/download/" target="_blank">
     <img width="700" src="https://mdbootstrap.com/img/Marketing/products/jquery/mdb-free.jpg" alt="logo">
   </a>
 </p>
 
-<p align="center">
+<p align="left">
   <b>400+</b> material UI elements, <b>600+</b> material icons, <b>74</b> CSS animations, SASS files, templates, tutorials and many more. Free for personal and commercial use. Available jQuery, Angular, React and Vue versions
 </p>
-<p align="center">
+<p align="left">
   Trusted by <b>800 000+</b> developers & designers. Used by such a companies like Nike, Samsung, Amazon, Ikea, Sony and NASA.
 </p>
 
@@ -255,3 +265,5 @@ ________
 # PRO version
 
  - [Material Design for Bootstrap PRO](https://mdbootstrap.com/products/jquery-ui-kit/)
+
+</div>

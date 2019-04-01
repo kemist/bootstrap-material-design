@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /*body {
     font-family: 'Open Sans', sans-serif !important;
     font-weight: 300; }
@@ -287,3 +288,69 @@
       float: right;
       line-height: 25px;
     }
+=======
+/* Custom CSS */
+
+body {
+  padding-bottom: 20px;
+}
+
+.navbar {
+  margin-bottom: 20px;
+}
+
+
+
+.w-1r {width: 1rem;}
+.h-1r {height: 1rem;}
+
+.w-2r {width: 2rem;}
+.h-2r {height: 2rem;}
+
+.w-3r {width: 3rem;}
+.h-3r {height: 3rem;}
+
+.w-4r {width: 4rem;}
+.h-4r {height: 4rem;}
+
+
+
+.klib
+.kem-logo-icon-box, .klib {
+	width: 2em;
+	height: 2em;
+	background-color: #ff19a7;
+}
+
+
+
+
+
+
+.mt-10 {
+	margin-top: 10px;
+}
+	
+.mt-20 {
+	margin-top: 20px;
+}
+
+.mb-20 {
+	padding-bottom: 20px;
+}
+
+
+
+.pt-10 {
+	padding-top: 10px;
+}
+
+.pt-20 {
+	padding-top: 20px;
+}
+
+.pb-20 {
+	padding-bottom: 20px;
+}
+
+>>>>>>> fbd05c1cc36c99e9f83503388e321a90ca6ae797
